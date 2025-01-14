@@ -22,7 +22,7 @@ A classic two-player game implemented in [language/technology used, e.g., HTML, 
 ## Running Tic-Tac-Toe:
 
 ```
-git clone https://github.com/aqeelanwar/Tic-Tac-Toe.git
+git clone [https://github.com/SpandanL96/Tic-Tac-Toe-Game.git]
 cd Tic-Tac-Toe
 open main.py
 run python main.py
